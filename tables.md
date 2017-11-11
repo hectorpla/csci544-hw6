@@ -15,4 +15,21 @@
 | Token-wise F1 (micro) 	|	91.0152104705	|	91.3070392642   |
 | Sentence-wise accuracy 	|	48.6486486486	|	50.4978662873   |
 
+
 # Extended Features
+
+| Scores  (twitter_dev)   	| Log-reg       	| 	CRF   			|
+| --------------------------|:-----------------:| -----------------:|
+| Token-wise accuracy 		|	95.5534367687	| 	95.8221374707   |
+| Token-wise F1 (macro) 	|	23.3643963123	|	28.7534601827  	|
+| Token-wise F1 (micro) 	|	95.5534367687	|	95.8221374707   |
+| Sentence-wise accuracy 	|	66.4406779661	|	67.7966101695   |
+
+
+| Scores  (twitter_dev_test)| Log-reg       	| 	CRF   			|
+| --------------------------|:-----------------:| -----------------:|
+| Token-wise accuracy 		|	91.0505836576	| 	91.23629289		|
+| Token-wise F1 (macro) 	|	12.4699011809	|	16.8885237874   |
+| Token-wise F1 (micro) 	|	91.0505836576	|	91.23629289   	|
+| Sentence-wise accuracy 	|	48.506401138	|	50.0711237553   |
+
